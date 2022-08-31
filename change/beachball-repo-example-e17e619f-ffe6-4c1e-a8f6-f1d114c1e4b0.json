@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "small change",
-  "packageName": "beachball-repo-example",
-  "email": "clement.creusat@opendigitaleducation.com",
-  "dependentChangeType": "patch"
-}

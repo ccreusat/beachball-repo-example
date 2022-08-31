@@ -2,6 +2,27 @@
   "name": "beachball-repo-example",
   "entries": [
     {
+      "date": "Wed, 31 Aug 2022 17:16:52 GMT",
+      "tag": "beachball-repo-example_v0.2.0",
+      "version": "0.2.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "clement.creusat@gmail.com",
+            "package": "beachball-repo-example",
+            "commit": "505a42a8c88bead004e844a010d75bec1d781f63",
+            "comment": "small change"
+          },
+          {
+            "author": "clement.creusat@gmail.com",
+            "package": "beachball-repo-example",
+            "commit": "3d024757bf60e8b23a4c672323bb5c3ea59a4aa0",
+            "comment": "small change"
+          }
+        ]
+      }
+    },
+    {
       "date": "Wed, 31 Aug 2022 17:08:51 GMT",
       "tag": "beachball-repo-example_v0.1.0",
       "version": "0.1.0",
