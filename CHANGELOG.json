@@ -1,0 +1,20 @@
+{
+  "name": "beachball-repo-example",
+  "entries": [
+    {
+      "date": "Wed, 31 Aug 2022 17:08:51 GMT",
+      "tag": "beachball-repo-example_v0.1.0",
+      "version": "0.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "clement.creusat@gmail.com",
+            "package": "beachball-repo-example",
+            "commit": "b2391ef7d210b43fa95692393217c91688f43c4f",
+            "comment": "small change"
+          }
+        ]
+      }
+    }
+  ]
+}
